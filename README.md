@@ -3,6 +3,14 @@ An independent English-learning series originally designed for the **CS50x Iran 
 
 The materials are tailored to build confidence in **technical, academic, and business English**, using accessible language and CS-related themes. Each weekly PDF blends key communication skills with topics aligned with the spirit of CS50x, making it suitable for self-learners, educators, and international students in tech.
 
+## 📝 Notes on File Naming and Versions
+
+- **R&V** stands for **Reading and Vocabulary**.  
+  Files like `week0 R&V_tech jobs.pdf` are focused on developing reading skills and vocabulary around a CS-related theme.
+
+- The folder `optional-persian-guides/` contains the same English material, but with an **additional Persian-language study guide** for learners who benefit from bilingual support.  
+  > 🗒️ Only the study guide is in Persian — the main lessons and content remain fully in English.
+  
 # 📘 CS50x Special English – Independent Language Series for Learners
 
 This repository contains a custom English-learning series created for learners interested in both **computer science** and **language development**, especially those engaging with [CS50x](https://cs50.harvard.edu/x/), Harvard's *Introduction to Computer Science*.
