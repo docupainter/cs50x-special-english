@@ -44,6 +44,7 @@ Each PDF follows a structured weekly theme, gradually increasing in complexity.
 - 💡 Based on CS thinking, but no programming experience required  
 - 🧠 Real-life tech-related topics with simplified language  
 - 🔄 Suitable for **self-study**, **tutoring**, or use alongside CS50x
+- 📱 Mobile-friendly PDFs — easy to read on phones and tablets
   
 
 ## 🔓 License
