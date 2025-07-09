@@ -2,6 +2,7 @@
 An independent English-learning series originally designed for the **CS50x Iran community**, this project supports **CS50x-inspired learners**—those who are exploring computer science through the CS50x course or similar paths, especially non-native English speakers.
 
 The materials are tailored to build confidence in **technical, academic, and business English**, using accessible language and CS-related themes. Each weekly PDF blends key communication skills with topics aligned with the spirit of CS50x, making it suitable for self-learners, educators, and international students in tech.
+
   
 # 📘 CS50x Special English – Independent Language Series for Learners
 
@@ -17,6 +18,7 @@ The materials are independent of CS50x, but inspired by its weekly structure, to
 
 - The folder `optional-persian-guides/` contains the same English material, but with an **additional Persian-language study guide** for learners who benefit from bilingual support.  
   > 🗒️ Only the study guide is in Persian — the main lessons and content remain fully in English.
+  
 
 ## 📂 What’s Included
 
@@ -29,6 +31,7 @@ This series includes **8 weekly PDF files** (Week 0 to Week 7) designed to:
 
 Each PDF follows a structured weekly theme, gradually increasing in complexity.
 
+
 ## 🚀 Who Is This For?
 
 - Independent learners studying **CS50x** or exploring CS in English 
@@ -40,7 +43,8 @@ Each PDF follows a structured weekly theme, gradually increasing in complexity.
 - 📚 Standalone English lessons, structured week by week  
 - 💡 Based on CS thinking, but no programming experience required  
 - 🧠 Real-life tech-related topics with simplified language  
-- 🔄 Suitable for **self-study**, **tutoring**, or use alongside CS50x  
+- 🔄 Suitable for **self-study**, **tutoring**, or use alongside CS50x
+  
 
 ## 🔓 License
 
@@ -48,6 +52,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 You may use, share, and adapt with attribution — but not for commercial purposes.
 
 For more details, see the full license text at [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## 👩‍🏫 Author
 
